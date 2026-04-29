@@ -226,7 +226,7 @@ st.markdown("""
     
     /* Override Streamlit */
     .stTextArea textarea {
-        background: rgba(255,255,255,0.05) !important;
+        background: rgba(0,0,0,0.05) !important;
         border: 1px solid rgba(255,255,255,0.15) !important;
         border-radius: 12px !important;
         color: white !important;
